@@ -253,16 +253,16 @@ voice register dn 8
  name 3288
  allow watch
 voice register dn 9
- number 3299
- name 3299
+ number 3229
+ name 3229
  allow watch
 voice register dn 10
- number 3267
- name 3267
+ number 3239
+ name 3239
  allow watch
 !
 voice register pool 1
- id mac obob.cafe.baba
+ id mac c4b9.cdb4.1f02
  number 1 dn 1
  number 2 dn 2
  number 3 dn 3
@@ -274,7 +274,7 @@ voice register pool 1
  type 8851
 !
 voice register pool 2
- id mac haha.face.bobo
+ id mac 6c5e.3bf2.144a
  number 1 dn 6
  number 2 dn 8
  number 3 dn 9
